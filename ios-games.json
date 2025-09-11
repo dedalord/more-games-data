@@ -12,7 +12,7 @@
 	},
 	{
 		"apple_id": "1021607750",
-		"bundle_id": "com.dedalord.runningfred"
+		"bundle_id": "com.dedalord.runningfred",
 		"game_name": "Running Fred",
 		"game_description": "Running Fred is an action game with multiple game modes created by Dedalord. Can you take control of our crazy hero Fred as he runs for his life?",
 		"game_thumbnail": "https://dedalord.github.io/more-games-data/images/com.dedalord.runningfred/thumbnail.jpg",
