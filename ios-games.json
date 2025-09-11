@@ -1,4 +1,12 @@
 {"items": [
-	
-]
-}
+	{
+		"bundle_id": "1021607750",
+		"game_name": "SuperSonic Jack",
+		"game_description": "In this new action online game, you will be helping Jack get through several obstacles that have been prepared by the devilish doctor Jaykovich. At first, you need to get from the rocket that you’re tied to. After that you need to run for your life. On your way, there will be dangerous obstacles waiting for you, such as radioactive waste and even lasers. The further you’ll get the more points you’ll get. You can use these to buy new upgrades, such as a double jump, running around walls, flying and even a magnet. You can also unlock new characters, there’s a ton of them available. It’s a quality runner game that you’ll surely enjoy. So come on, let’s play!",
+		"game_thumbnail": "https://dedalord.github.io/more-games-data/images/supersonic_jack/thumbnail.jpg",
+		"game_image": "https://dedalord.github.io/more-games-data/images/supersonic_jack/image.png",
+		"version_number": 1,
+		"bundle_id_to_ignore_on_this_game" : [],
+		"more_games_enabled" : true
+	}
+]}
